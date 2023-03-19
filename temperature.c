@@ -11,4 +11,5 @@ int main(){
     c = (float) 5/9 * (fah-32);
 
     printf("The resulting Celsius temperature is: %f", c);
+    return 0;
 }
