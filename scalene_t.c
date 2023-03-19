@@ -22,4 +22,5 @@ int main(){
     area = (a*b*sin(rad))/2;
 
     printf("The area of the triangle is: %.3f", area);
+    return 0;
 }
